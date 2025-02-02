@@ -1,1 +1,2 @@
-Hell0 I am pudate the code
+I can check the reset command in dotnet app.
+Hello I am pudate the code
